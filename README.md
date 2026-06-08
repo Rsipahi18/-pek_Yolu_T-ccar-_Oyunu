@@ -1,2 +1,2 @@
-# -pek_Yolu_T-ccar-_Oyunu
+# Ipek_Yolu_Tuccar_Oyunu
 OYUNUM GELİŞTİRİLMEYE DEVAM EDECEKTİR.
